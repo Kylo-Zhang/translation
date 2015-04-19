@@ -1,2 +1,2 @@
-# translation
-Articles translated by myself.
+# 翻译的文章
+自己翻译的一些文章。
